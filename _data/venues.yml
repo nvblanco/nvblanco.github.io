@@ -1,9 +1,55 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"MICCAI":
+  url: https://miccai.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"TMI":
+  url: https://ieeetmi.org/
+  color: "#000000"
 
-"Vision":
+"IbPRIA":
+  url: https://ibpria.org/
   color: "#009f36"
+
+"BMCOralHealth":
+  url: https://bmcoralhealth.biomedcentral.com/
+  color: "#c0c0c0"
+
+"Microbiome":
+  url: https://microbiomejournal.biomedcentral.com/
+  color: "#60a0a0"
+
+"MicrobiolSpectr":
+  url: https://journals.asm.org/journal/microbiolspectr
+  color: "#3030a0"
+
+"IJLM":
+  url: https://link.springer.com/journal/414
+  color: "#a0c340"
+
+"ECAI":
+  url: https://ecai2024.eu/
+  color: "#801280"
+
+"SciRep":
+  url: https://www.nature.com/srep/
+  color: "#9090c0"
+
+"CMPB":
+  url: https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine
+  color: "#f0a000"
+
+"EUVIP":
+  url: https://www.euvip2025.org/
+  color: "#0000ff"
+
+"IJCARS":
+  url: https://www.springer.com/journal/11548
+  color: "#ff0000"
+
+"ApplSci":
+  url: https://www.mdpi.com/journal/applsci
+  color: "#00a0a0"
+
+"JMIR":
+  url: https://www.jmir.org/
+  color: "#ff8000"

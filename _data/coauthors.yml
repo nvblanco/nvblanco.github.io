@@ -1,34 +1,55 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"carreira":
+  - firstname: ["María", "Maria", "Maria J.", "María J.", "Maria J", "María J", "MJ", "M. J.", "María José", "Maria Jose"]
+    url: https://citius.gal/team/maria-jose-carreira-nouche/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"tomas":
+  - firstname: ["Inmaculada", "I.", "I"]
+    url: https://investigacion.usc.gal/investigadores/60479/detalle
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+# "varas-quintana":
+#   - firstname: ["Paulina", "P.", "P"]
+#     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"cores":
+  - firstname: ["Daniel", "D", "D."]
+    url: https://citius.gal/team/daniel-cores-costa/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"mucientes":
+  - firstname: ["Manuel", "M", "M."]
+    url: https://citius.gal/team/manuel.mucientes/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"regueira-iglesias":
+  - firstname: ["Alba", "A", "A."]
+    url: https://www.usc.gal/en/department/surgery-and-medical-surgical-specialities/directory/alba-regueira-iglesias-318753
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"vazquez-gonzalez":
+  - firstname: ["Lara", "L", "L."]
+    url: https://www.cesga.es/lara-maria-vazquez-gonzalez/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"blanco-pintos":
+  - firstname: ["Triana", "T", "T."]
+    url: https://investigacion.usc.es/investigadores/1219636/detalle
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"suarez-rodriguez":
+  - firstname: ["Berta", "B", "B."]
+    url: https://www.usc.gal/en/department/surgery-and-medical-surgical-specialities/directory/berta-suarez-rodriguez-651426
+
+"cootes":
+  - firstname: ["Timothy", "Tim", "T.", "T"]
+    url: https://personalpages.manchester.ac.uk/staff/timothy.f.cootes/
+
+"lindner":
+  - firstname: ["Claudia", "C", "C."]
+    url: https://personalpages.manchester.ac.uk/staff/claudia.lindner/
+
+"diaz-parga":
+  - firstname: ["César", "Cesar", "C.", "C"]
+    url: https://citius.gal/team/cesar-diaz-parga/
+
+"bernardino":
+  - firstname: ["Gabriel", "G", "G."]
+    url: https://www.upf.edu/web/physense/about-us/-/asset_publisher/GJmX5tpigwVZ/content/bernardino-perez-gabriel/maximized
+
+"nunez-garcia":
+  - firstname: ["Marta", "M", "M."]
+    url: https://citius.gal/team/marta-nunez-garcia/
